@@ -1,10 +1,4 @@
-## Marvel Rivals Ignite 2026: Mid Season Finals - Statistics<br><br>
-
-### Heroes
-| Hero                  | Pick Rate | Protect Rate | Ban Rate |
-| --------------------- | --------- | ------------ | -------- |
-| tech                  | tech      | tech         | tech     |
-* <u>Fixed soon</u>
+## Marvel Rivals Ignite 2026: Mid Season Finals - Teams & Maps Statistics<br><br>
 
 ### Maps
 | Map (Mode)                        | Games | Pick Rate |
@@ -20,7 +14,8 @@
 | Hell's Heaven (Domination)        | 1     | 2.9%      |
 | Yggdrasill Path (Convoy)          | 1     | 2.9%      |
 | Arakko (Convoy)                   | 1     | 2.9%      |
-<br>Unpicked Maps (4):
+
+Unpicked Maps (4):
 * <b>Convergence:</b> Heart of Heaven, Shin-Shibuya, Symbiotic Surface, Lower Manhattan
 
 ### Regions

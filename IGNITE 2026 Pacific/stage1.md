@@ -51,7 +51,7 @@ Unpicked Heroes (12):
 
 ### Maps
 | Map (Mode)                        | Games | Pick Rate |
-| --------------------------------- | ----- | --------- |
+| --------------------------------- | ----: | --------: |
 | Museum of Contemplation (Convoy)  | 7     | 14%       |
 | Krakoa (Domination)               | 6     | 12%       |
 | Lower Manhattan (Convergence)     | 6     | 12%       |
@@ -72,7 +72,7 @@ Unpicked Maps (1):
 
 ### Teams
 | Team                   | Score      | Winrate   |
-| ---------------------- | ---------- | --------- |
+| ---------------------- | ---------: | --------: |
 | Gen.G Esports          | 13 - 2     | 86.7%     |
 | REJECT                 | 11 - 8     | 57.9%     |
 | XOXO01                 | 10 - 9     | 52.6%     |

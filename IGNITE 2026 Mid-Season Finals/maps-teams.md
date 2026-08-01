@@ -3,34 +3,35 @@
 ### Maps
 | Map (Mode)                        | Games | Pick Rate |
 | --------------------------------- | ----- | --------- |
-| Museum of Contemplation (Convoy)  | 5     | 14.7%     |
-| Celestial Husk (Domination)       | 5     | 14.7%     |
-| Hall of Djalia (Convergence)      | 4     | 11.8%     |
-| Krakoa (Domination)               | 4     | 11.8%     |
-| Birnin T'Challa (Domination)      | 4     | 11.8%     |
-| Central Park (Convergence)        | 3     | 8.8%      |
-| Spider-Islands (Convoy)           | 3     | 8.8%      |
-| Midtown (Convoy)                  | 3     | 8.8%      |
-| Hell's Heaven (Domination)        | 1     | 2.9%      |
-| Yggdrasill Path (Convoy)          | 1     | 2.9%      |
-| Arakko (Convoy)                   | 1     | 2.9%      |
+| Celestial Husk (Domination)       | 6     | 16.2%     |
+| Museum of Contemplation (Convoy)  | 5     | 13.5%     |
+| Hall of Djalia (Convergence)      | 4     | 10.8%     |
+| Krakoa (Domination)               | 4     | 10.8%     |
+| Birnin T'Challa (Domination)      | 4     | 10.8%     |
+| Spider-Islands (Convoy)           | 4     | 10.8%     |
+| Central Park (Convergence)        | 3     | 8.1%      |
+| Midtown (Convoy)                  | 3     | 8.1%      |
+| Hell's Heaven (Domination)        | 1     | 2.7%      |
+| Yggdrasill Path (Convoy)          | 1     | 2.7%      |
+| Arakko (Convoy)                   | 1     | 2.7%      |
+| Symbiotic Surface (Convergence)   | 1     | 2.7%      |
 
-Unpicked Maps (4):
-* <b>Convergence:</b> Heart of Heaven, Shin-Shibuya, Symbiotic Surface, Lower Manhattan
+Unpicked Maps (3):
+* <b>Convergence:</b> Heart of Heaven, Shin-Shibuya, Lower Manhattan
 
 ### Regions
 | Region       | Score vs. Other | Total score |
 | ------------ | --------------- | ----------- |
-| EMEA         | 13 - 5          | 19 - 11     |
-| Americas     | 12 - 8          | 14 - 10     |
+| EMEA         | 16 - 5          | 22 - 11     |
+| Americas     | 12 - 11         | 14 - 13     |
 | Pacific      | 8 - 10          | 8 - 10      |
 | China        | 0 - 9           | 0 - 0       |
 
 ### Teams
 | Team                   | Score      | Winrate   |
 | ---------------------- | ---------- | --------- |
-| RAD                    | 12 - 5     | 70.6%     |
-| Swamp Gaming           | 5 - 3      | 62.5%     |
+| RAD                    | 15 - 5     | 75%       |
+| Swamp Gaming           | 5 - 6      | 45.5%     |
 | Gen.G Esports          | 5 - 6      | 45.5%     |
 | 100 Thieves            | 5 - 6      | 45.5%     |
 | Natus Vincere          | 4 - 0      | 100%      |
@@ -40,4 +41,4 @@ Unpicked Maps (4):
 | Aconyx                 | 0 - 4      | 0%        |
 | OUG                    | 0 - 5      | 0%        |
 
-<br><u>Last tracked match: <b>Swamp Gaming (3 - 1) Gen.G Esports</b></u>
+<br><u>Last tracked match: <b>Swamp Gaming (0 - 3) RAD</b></u>

@@ -54,16 +54,16 @@ Unpicked Heroes (10):
 ### Maps
 | Map (Mode)                       | Games | Pick Rate |
 | -------------------------------- | ----: | --------: |
-| Celestial Husk (Domination)      |     7 |     15.6% |
-| Museum of Contemplation (Convoy) |     7 |     15.6% |
-| Krakoa (Domination)              |     6 |     13.3% |
-| Hall of Djalia (Convergence)     |     5 |     11.1% |
-| Birnin T'Challa (Domination)     |     4 |      8.9% |
-| Spider-Islands (Convoy)          |     4 |      8.9% |
-| Midtown (Convoy)                 |     4 |      8.9% |
-| Central Park (Convergence)       |     3 |      6.7% |
-| Hell's Heaven (Domination)       |     2 |      4.4% |
-| Yggdrasill Path (Convoy)         |     1 |      2.2% |
+| Celestial Husk (Domination)      |     7 |     15.2% |
+| Museum of Contemplation (Convoy) |     7 |     15.2% |
+| Krakoa (Domination)              |     6 |     13%   |
+| Hall of Djalia (Convergence)     |     5 |     10.9% |
+| Birnin T'Challa (Domination)     |     4 |      8.7% |
+| Spider-Islands (Convoy)          |     4 |      8.7% |
+| Midtown (Convoy)                 |     4 |      8.7% |
+| Central Park (Convergence)       |     3 |      6.5% |
+| Hell's Heaven (Domination)       |     2 |      4.3% |
+| Yggdrasill Path (Convoy)         |     2 |      4.3% |
 | Arakko (Convoy)                  |     1 |      2.2% |
 | Symbiotic Surface (Convergence)  |     1 |      2.2% |
 
@@ -73,8 +73,8 @@ Unpicked Maps (3):
 ### Regions
 | Region       | Score vs. Other | Total score |
 | ------------ | --------------: | ----------: |
-| EMEA         | 17 - 6          | 23 - 11     |
-| Americas     | 12 - 12         | 14 - 14     |
+| EMEA         | 17 - 7          | 23 - 12     |
+| Americas     | 13 - 12         | 15 - 14     |
 | Pacific      | 8 - 10          | 8 - 10      |
 | China        | 0 - 9           | 0 - 9       |
 
@@ -82,14 +82,14 @@ Unpicked Maps (3):
 | Team                   | Score      | Winrate   |
 | ---------------------- | ---------: | --------: |
 | RAD                    | 15 - 6     | 71.4%     |
-| Natus Vincere          | 5 - 0      | 100%      |
+| Natus Vincere          | 5 - 1      | 83.3%     |
+| Team Liquid Citadel    | 5 - 2      | 71.4%     |
 | Swamp Gaming           | 5 - 6      | 45.5%     |
 | Gen.G Esports          | 5 - 6      | 45.5%     |
 | 100 Thieves            | 5 - 6      | 45.5%     |
-| Team Liquid Citadel    | 4 - 2      | 66.7%     |
 | REJECT                 | 3 - 4      | 42.9%     |
 | Virtus.pro             | 3 - 6      | 33.3%     |
 | Aconyx                 | 0 - 4      | 0%        |
 | OUG                    | 0 - 5      | 0%        |
 
-<br><u>Last tracked match: <b>Natus Vincere (1 - 0) Team Liquid Citadel</b></u>
+<br><u>Last tracked match: <b>Natus Vincere (1 - 1) Team Liquid Citadel</b></u>

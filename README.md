@@ -7,12 +7,13 @@ To view specific tournament statistics, you need to open the folder & file (.md)
 ## Tournaments
 | League           | Tournament                      | Link                                                                                                                           |
 | :--------------- | ------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
-| International    |  IGNITE 2026: Mid Season Finals | [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20International/midseason-finals.md)           |
-| Pacific          |  IGNITE 2026: Stage 1           | [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Pacific/stage1.md)                           |
+| International    |  IGNITE 2026: Mid Season Finals | [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Tournaments/midseason-finals.md)             |
+| Pacific          |  IGNITE 2026: Stage 1           | [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Tournaments/pacific-stage1.md)               |
 
 ## Players Signature Heroes
-| Season           | Tournament                      | Link                                                                                                                           |
-| :--------------- | ------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
-| Season 9.0       |  IGNITE 2026: Mid Season Finals | [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20International/players.md)                    |
+| Season           |  Link                                                                                                                           |
+| :--------------- |  :----------------------------------------------------------------------------------------------------------------------------- |
+| Season 9         |  [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Players/season9.md)                          |
+| Season 8         |  [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Players/season8.md)                          |
 
-Good luck!
+### Good luck!

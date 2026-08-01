@@ -81,7 +81,7 @@ Unpicked Maps (3):
 ### Teams
 | Team                   | Score      | Winrate   |
 | ---------------------- | ---------: | --------: |
-| RAD                    | 15 - 5     | 75%       |
+| RAD                    | 15 - 6     | 71.4%     |
 | Swamp Gaming           | 5 - 6      | 45.5%     |
 | Gen.G Esports          | 5 - 6      | 45.5%     |
 | 100 Thieves            | 5 - 6      | 45.5%     |

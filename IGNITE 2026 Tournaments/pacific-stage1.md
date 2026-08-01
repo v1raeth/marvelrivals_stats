@@ -46,8 +46,8 @@
 | Iron Fist            |      1.3% |         0.0% |     0.0% |
 | Black Panther        |      0.4% |         0.0% |     0.0% |
 
-Unpicked Heroes (12):
-* Black Widow, Blade, Hawkeye, Hela, Human Torch, Iron Man, Jubilee, Mister Fantastic, Namor, Scarlet Witch, Squirrel Girl, Storm
+Unpicked Heroes (11):
+* Black Widow, Blade, Hawkeye, Hela, Human Torch, Iron Man, Mister Fantastic, Namor, Scarlet Witch, Squirrel Girl, Storm
 
 ### Maps
 | Map (Mode)                        | Games | Pick Rate |

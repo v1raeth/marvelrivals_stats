@@ -73,7 +73,7 @@ Unpicked Maps (3):
 ### Regions
 | Region       | Score vs. Other | Total score |
 | ------------ | --------------: | ----------: |
-| EMEA         | 16 - 5          | 22 - 11     |
+| EMEA         | 16 - 6          | 22 - 11     |
 | Americas     | 12 - 11         | 14 - 13     |
 | Pacific      | 8 - 10          | 8 - 10      |
 | China        | 0 - 9           | 0 - 9       |

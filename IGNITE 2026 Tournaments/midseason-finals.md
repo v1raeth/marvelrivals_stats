@@ -55,16 +55,16 @@ Unpicked Heroes (9):
 ### Maps
 | Map (Mode)                         | Games | Pick Rate |
 | :--------------------------------- | ----: | --------: |
-| Celestial Husk *(Domination)*      |     7 |     14.3% |
-| Museum of Contemplation *(Convoy)* |     7 |     14.3% |
-| Krakoa *(Domination)*              |     7 |     14.3% |
-| Hall of Djalia *(Convergence)*     |     5 |     10.2% |
-| Midtown *(Convoy)*                 |     5 |     10.2% |
-| Birnin T'Challa *(Domination)*     |     4 |      8.2% |
-| Spider-Islands *(Convoy)*          |     4 |      8.2% |
-| Central Park *(Convergence)*       |     3 |      6.1% |
-| Hell's Heaven *(Domination)*       |     2 |      4.1% |
-| Yggdrasill Path *(Convoy)*         |     2 |      4.1% |
+| Celestial Husk *(Domination)*      |     7 |     14%   |
+| Museum of Contemplation *(Convoy)* |     7 |     14%   |
+| Krakoa *(Domination)*              |     7 |     14%   |
+| Hall of Djalia *(Convergence)*     |     5 |     10%   |
+| Midtown *(Convoy)*                 |     5 |     10%   |
+| Spider-Islands *(Convoy)*          |     5 |     10%   |
+| Birnin T'Challa *(Domination)*     |     4 |      8%   |
+| Central Park *(Convergence)*       |     3 |      6%   |
+| Hell's Heaven *(Domination)*       |     2 |      4%   |
+| Yggdrasill Path *(Convoy)*         |     2 |      4%   |
 | Arakko *(Convoy)*                  |     1 |      2%   |
 | Symbiotic Surface *(Convergence)*  |     1 |      2%   |
 | Shin-Shibuya *(Convergence)*       |     1 |      2%   |
@@ -75,17 +75,17 @@ Unpicked Maps (2):
 ### Regions
 | Region       | Score vs. Other | Total score |
 | :----------- | :-------------: | :---------: |
-| EMEA         | 19 - 8          | 25 - 13     |
-| Americas     | 14 - 14         | 16 - 16     |
+| EMEA         | 19 - 9          | 25 - 14     |
+| Americas     | 15 - 14         | 17 - 16     |
 | Pacific      | 8 - 10          | 8 - 10      |
 | China        | 0 - 9           | 0 - 9       |
 
 ### Teams
 | Team                   | Score      | Winrate   |
 | :--------------------- | :--------: | :-------: |
-| RAD                    | 15 - 7     | 68.2%     |
+| RAD                    | 15 - 8     | 65.2%     |
 | Natus Vincere          | 7 - 1      | 87.5%     |
-| Team Liquid Citadel    | 6 - 4      | 60%       |
+| Team Liquid Citadel    | 7 - 4      | 63.6%     |
 | Swamp Gaming           | 5 - 6      | 45.5%     |
 | Gen.G Esports          | 5 - 6      | 45.5%     |
 | 100 Thieves            | 5 - 6      | 45.5%     |

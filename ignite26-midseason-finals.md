@@ -20,7 +20,7 @@
 | Hell's Heaven (Domination)        | 1     | 2.9%      |
 | Yggdrasill Path (Convoy)          | 1     | 2.9%      |
 | Arakko (Convoy)                   | 1     | 2.9%      |
-Unpicked Maps (4):
+<br>Unpicked Maps (4):
 * <b>Convergence:</b> Heart of Heaven, Shin-Shibuya, Symbiotic Surface, Lower Manhattan
 
 ### Regions
@@ -45,4 +45,4 @@ Unpicked Maps (4):
 | Aconyx                 | 0 - 4      | 0%        |
 | OUG                    | 0 - 5      | 0%        |
 
-<br><br><u>Last tracked match: <b>Swamp Gaming (3 - 1) Gen.G Esports</b></u>
+<br><u>Last tracked match: <b>Swamp Gaming (3 - 1) Gen.G Esports</b></u>

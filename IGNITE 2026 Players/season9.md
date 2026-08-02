@@ -4,24 +4,24 @@
 ## Marvel Rivals Ignite 2026: Mid Season Finals
 | Player        |           Team | Signature Heroes                                |
 | :------------ | -------------: | :---------------------------------------------- |
-| fate          |  Natus Vincere | Rocket Raccoon, Adam Warlock, Gambit            |
-| Jur3ky        |  Natus Vincere | Storm, Ultron, Rocket Raccoon                   |
-| Lv1Crook      |  Natus Vincere | Invisible Woman, Luna Snow, Doctor Strange      |
-| Raajaro       |  Natus Vincere | Magneto, Emma Frost                             |
-| Terra         |  Natus Vincere | The Punisher, Winter Soldier, Elsa Bloodstone   |
-| TrqstMe       |  Natus Vincere | The Thing, Peni Parker, Emma Frost              |
+| fate          |  Natus Vincere | Gambit, Rocket Raccoon, Adam Warlock            |
+| Jur3ky        |  Natus Vincere | Storm, Wolverine, Winter Soldier                |
+| Lv1Crook      |  Natus Vincere | Invisible Woman, Gambit, Luna Snow              |
+| Raajaro       |  Natus Vincere | Magneto, Emma Frost, Groot                      |
+| Terra         |  Natus Vincere | Elsa Bloodstone, Winter Soldier, The Punisher   |
+| TrqstMe       |  Natus Vincere | Emma Frost, Peni Parker, The Thing              |
 | cooper        | Liquid Citadel | Gambit, Loki, Rocket Raccoon                    |
-| energy        | Liquid Citadel | Winter Soldier, Elsa Bloodstone, Magneto        |
-| nero          | Liquid Citadel | Adam Warlock, Gambit, Invisible Woman           |
-| Polly         | Liquid Citadel | The Thing, Emma Frost, Magneto                  |
-| Shpeediry     | Liquid Citadel | Ultron, Black Cat, Storm                        |
-| Veswa         | Liquid Citadel | Groot, Magneto, The Thing                       |
+| energy        | Liquid Citadel | Elsa Bloodstone, Winter Soldier, Magneto        |
+| nero          | Liquid Citadel | Invisible Woman, Gambit, Adam Warlock           |
+| Polly         | Liquid Citadel | Peni Parker, Emma Frost, The Thing              |
+| Shpeediry     | Liquid Citadel | Ultron, Storm, Psylocke                         |
+| Veswa         | Liquid Citadel | Magneto, Groot, The Thing                       |
 | crazykitty    |            RAD | Daredevil, Black Cat, Ultron                    |
 | ducky1        |            RAD | Groot, Emma Frost, Magneto                      |
 | lugiagoat     |            RAD | Magneto, The Thing, Emma Frost                  |
 | mash          |            RAD | Gambit, Luna Snow, Invisible Woman              |
 | SmashNezz     |            RAD | Elsa Bloodstone, Black Widow, Winter Soldier    |
-| Vertigo       |            RAD | Rocket Raccoon, Luna Snow, Adam Warlock         |
+| Vertigo       |            RAD | Rocket Raccoon, Invisible Woman, Luna Snow      |
 | craZmanG      |   Swamp Gaming | Groot, Emma Frost, Peni Parker                  |
 | Daes          |   Swamp Gaming | Wolverine, Daredevil, Storm                     |
 | forkydog      |   Swamp Gaming | Luna Snow, Rocket Raccoon, Gambit               |
@@ -50,14 +50,14 @@
 | ILLICIT       |            OUG | Daredevil, Wolverine, Ultron                    |
 | SVALD         |            OUG | Luna Snow, Gambit, Invisible Woman              |
 | TAROCOOK1E    |            OUG | Winter Soldier, Elsa Bloodstone, Black Widow    |
-| Wenxuyan      |            OUG | Magneto, Deadpool(Vanguard), Emma Frost         |
+| Wenxuyan      |            OUG | Magneto, Deadpool (Vanguard), Emma Frost        |
 | Yexin         |            OUG | The Thing, Groot, Venom                         |
 | Brownie       |         REJECT | Black Widow, Elsa Bloodstone, Hela              |
-| GARGOYLE      |         REJECT | Emma Frost, Deadpool(Vanguard), Doctor Strange  |
+| GARGOYLE      |         REJECT | Emma Frost, Deadpool (Vanguard), Doctor Strange |
 | Lastro        |         REJECT | Gambit, Luna Snow, Loki                         |
 | piggy         |         REJECT | Groot, Angela, The Thing                        |
 | SeungHoon     |         REJECT | Loki, Luna Snow, Rocket Raccoon                 |
-| Yaki          |         REJECT | Black Cat, Daredevil, Deadpool(Vanguard)        |
+| Yaki          |         REJECT | Black Cat, Daredevil, Deadpool (Vanguard)       |
 | Egg tart      |         Aconyx | Invisible Woman, Jeff the Land Shark, White Fox |
 | Ghost         |         Aconyx | Luna Snow, Loki                                 |
 | HetLot        |         Aconyx | Groot, Magneto, The Thing                       |

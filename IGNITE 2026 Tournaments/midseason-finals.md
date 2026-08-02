@@ -33,7 +33,6 @@
 | Moon Knight           |      3.5% |         0.0% |     0.0% |
 | Namor                 |      3.3% |         0.0% |     0.0% |
 | Cloak & Dagger        |      2.2% |         0.0% |     0.0% |
-| Mantis                |      2.1% |         2.1% |    97.9% |
 | Hulk                  |      1.9% |         0.0% |     0.0% |
 | Star-Lord             |      1.7% |         0.0% |     0.0% |
 | Rogue                 |      1.4% |         0.0% |     0.0% |
@@ -46,6 +45,7 @@
 | Human Torch           |      0.3% |         0.0% |     0.0% |
 | Captain America       |      0.3% |         0.0% |     0.0% |
 | Blade                 |      0.2% |         0.0% |     0.0% |
+| Mantis                |      0.2% |         2.1% |    97.9% |
 | Squirrel Girl         |      0.1% |         0.0% |     0.0% |
 | Mister Fantastic      |      0.1% |         0.0% |     0.0% |
 

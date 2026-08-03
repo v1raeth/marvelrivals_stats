@@ -7,7 +7,7 @@ To view specific tournament statistics, you need to open the folder & file (.md)
 ## Tournaments
 | League           | Tournament                      | Link                                                                                                                                                                                                |
 | :--------------- | ------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| International    |  IGNITE 2026: Mid Season Finals | [Detalis (Github Page)](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Tournaments/midseason-finals.md) | [Detalis (Web Page)](https://viraeth.work/articles/mrig-msf2026) |
+| International    |  IGNITE 2026: Mid Season Finals | [Detalis (Github Page)](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Tournaments/midseason-finals.md) - [Detalis (Web Page)](https://viraeth.work/articles/mrig-msf2026) |
 | Pacific          |  IGNITE 2026: Stage 1           | [Detalis](https://github.com/v1raeth/marvelrivals_stats/blob/main/IGNITE%202026%20Tournaments/pacific-stage1.md)                                                                                    |
 
 ## Players Signature Heroes

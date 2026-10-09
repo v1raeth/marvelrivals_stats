@@ -355,14 +355,14 @@
 | Scrappy      | The Shawrmaz       | Angela, Thor, Devil Dinosaur                    |
 | Miki         | The Shawrmaz       | Invisible Woman, Rocket Raccoon, Gambit         |
 | Hybrid       | The Shawrmaz       | Invisible Woman, Rocket Raccoon, Gambit         |
-| Sangshin     | Planet Sainage PAC | The Hood, Devil Dinosaur, Emma Frost            |
-| VITAL        | Planet Sainage PAC | Psylocke, Elsa Bloodstone, Hela                 |
-| wnsgur3      | Planet Sainage PAC | Gambit, Invisible Woman, Mantis                 |
-| Yugen        | Planet Sainage PAC | Wolverine, Winter Soldier, Psylocke             |
-| nevoi        | Planet Sainage PAC | Jeff the Land Shark, Rocket Raccoon, Luna Snow  |
-| Jmez         | Planet Sainage PAC | Hulk, Emma Frost, Groot                         |
-| Wav          | Planet Sainage PAC | Emma Frost, Magneto, Rogue                      |
-| Solmin       | Planet Sainage PAC | Invisible Woman, Loki, Gambit                   |
+| Sangshin     | Planet Sainage     | The Hood, Devil Dinosaur, Emma Frost            |
+| VITAL        | Planet Sainage     | Psylocke, Elsa Bloodstone, Hela                 |
+| wnsgur3      | Planet Sainage     | Gambit, Invisible Woman, Mantis                 |
+| Yugen        | Planet Sainage     | Wolverine, Winter Soldier, Psylocke             |
+| nevoi        | Planet Sainage     | Jeff the Land Shark, Rocket Raccoon, Luna Snow  |
+| Jmez         | Planet Sainage     | Hulk, Emma Frost, Groot                         |
+| Wav          | Planet Sainage     | Emma Frost, Magneto, Rogue                      |
+| Solmin       | Planet Sainage     | Invisible Woman, Loki, Gambit                   |
 | Anxsces      | Loyalty            | Devil Dinosaur, Hulk, Rogue                     |
 | demiseeee    | Loyalty            | Invisible Woman, Gambit, Jeff the Land Shark    |
 | Gamebo       | Loyalty            | Gorr, Wolverine, Loki                           |

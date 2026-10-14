@@ -155,57 +155,57 @@
 | Slopo         | FYR Strays           | Elsa Bloodstone, Winter Soldier, Psylocke       |
 
 ## Marvel Rivals Ignite 2026 Stage 1: Pacific
-| Player       | Team                 | Signature Heroes                                |
-| :----------- | :------------------- | :---------------------------------------------- |
-| Bobo         | Gen.G Esports        | Psylocke, Winter Soldier, Elsa Bloodstone       |
-| duep         | Gen.G Esports        | Emma Frost, Doctor Strange, Magneto             |
-| FMCL         | Gen.G Esports        | Adam Warlock, Wolverine, Daredevil              |
-| Salvation    | Gen.G Esports        | Luna Snow, Mantis, Ultron                       |
-| Skittles     | Gen.G Esports        | Jeff the Land Shark, Loki, Luna Snow            |
-| Zenstarry    | Gen.G Esports        | Devil Dinosaur, Doctor Strange, Groot           |
-| finale       | REJECT               | Psylocke, Winter Soldier, Elsa Bloodstone       |
-| GARGOYLE     | REJECT               | Emma Frost, Angela, Magneto                      |
-| Lastro       | REJECT               | White Fox, Loki, Gambit                         |
-| Marve1       | REJECT               | Devil Dinosaur, Hulk, Peni Parker               |
-| SeungHoon    | REJECT               | Luna Snow, Mantis, Jeff the Land Shark          |
-| Yaki         | REJECT               | Daredevil, Wolverine, Ultron                    |
-| Hoodie       | Zero Tenacity        | Invisible Woman, Mantis, Jeff the Land Shark    |
-| Return       | Zero Tenacity        | Daredevil, Wolverine, Ultron                    |
-| soko         | Zero Tenacity        | Emma Frost, Magneto, The Hood                   |
-| Wendy        | Zero Tenacity        | Rocket Raccoon, Invisible Woman, Luna Snow      |
-| Xetha        | Zero Tenacity        | Magneto, Devil Dinosaur, Venom                  |
-| Xzi          | Zero Tenacity        | Psylocke, Hela, The Punisher                    |
-| Bubblecuh    | Chiefs EC            | Rocket Raccoon, Loki, Invisible Woman           |
-| Isaac        | Chiefs EC            | Emma Frost, Groot, Hulk                         |
-| JONGVEQ      | Chiefs EC            | Elsa Bloodstone, Adam Warlock, Hela             |
-| lil Rang     | Chiefs EC            | Wolverine, Gorr, Psylocke                       |
-| Rapxel       | Chiefs EC            | Devil Dinosaur, Magneto, Angela                 |
-| Zykric       | Chiefs EC            | Invisible Woman, Gambit, Deadpool (Strategist)  |
-| Ace          | XOXO01               | Invisible Woman, Rocket Raccoon, White Fox      |
-| AloNeFillz   | XOXO01               | Psylocke, Elsa Bloodstone, Doctor Strange       |
-| JT3          | XOXO01               | Emma Frost, Peni Parker, Devil Dinosaur         |
-| MACE         | XOXO01               | Luna Snow, Loki, Ultron                         |
-| Pasiw0       | XOXO01               | The Hood, Venom, Rocket Raccoon                 |
-| Sung Juk Woo | XOXO01               | Magik, Spider-Man, Iron Fist                    |
-| AAAd         | AAAd                 | Invisible Woman, Gambit, Adam Warlock           |
-| INHYEOK      | AAAd                 | Devil Dinosaur, Magneto, Emma Frost             |
-| quasid       | AAAd                 | Rocket Raccoon, Luna Snow, Adam Warlock         |
-| reguri       | AAAd                 | Elsa Bloodstone, The Punisher, Hela             |
-| Ttuba        | AAAd                 | Magneto, Emma Frost, Devil Dinosaur             |
-| zeft         | AAAd                 | Wolverine, Psylocke, Daredevil                  |
-| Jmez         | Planet Sainage       | Magneto, Hulk, Doctor Strange                   |
-| Sangshin     | Planet Sainage       | Groot, Doctor Strange, Devil Dinosaur           |
-| VITAL        | Planet Sainage       | Winter Soldier, Hela, Elsa Bloodstone           |
-| wnsgur3      | Planet Sainage       | Invisible Woman, Gambit, Mantis                 |
-| Yugen        | Planet Sainage       | Adam Warlock, Wolverine, Winter Soldier         |
-| Solmin       | Planet Sainage       | Loki, Invisible Woman, Mantis                   |
-| nevoi        | Planet Sainage       | Deadpool (Duelist), Rocket Raccoon, Spider-Man  |
-| acid         | The Shawrmaz         | Emma Frost, Magneto, Devil Dinosaur             |
-| Hybrid       | The Shawrmaz         | Invisible Woman, Luna Snow, Rocket Raccoon      |
-| Louy         | The Shawrmaz         | Winter Soldier, Wolverine, Storm                |
-| Proxiezs     | The Shawrmaz         | Elsa Bloodstone, The Punisher, Mantis            |
-| rff_f        | The Shawrmaz         | Loki, Gambit, Rocket Raccoon                    |
-| Scrappy      | The Shawrmaz         | Thor, Angela, Magneto                           |
+| Player       | Team                    | Signature Heroes                                |
+| :----------- | :---------------------- | :---------------------------------------------- |
+| Bobo         | Gen.G Esports           | Psylocke, Elsa Bloodstone, Winter Soldier       |
+| duep         | Gen.G Esports           | Magneto, Emma Frost, The Hood                   |
+| FMCL         | Gen.G Esports           | Adam Warlock, Wolverine, Elsa Bloodstone        |
+| Salvation    | Gen.G Esports           | Ultron, Invisible Woman, Gambit                 |
+| Skittles     | Gen.G Esports           | Loki, Invisible Woman, Jeff the Land Shark      |
+| Zenstarry    | Gen.G Esports           | Devil Dinosaur, Groot, Doctor Strange           |
+| finale       | REJECT                  | Elsa Bloodstone, Psylocke, Winter Soldier       |
+| GARGOYLE     | REJECT                  | Magneto, Emma Frost, Doctor Strange             |
+| Lastro       | REJECT                  | Invisible Woman, Gambit, Loki                   |
+| Marve1       | REJECT                  | Devil Dinosaur, Hulk, Magneto                   |
+| SeungHoon    | REJECT                  | Rocket Raccoon, Luna Snow, Mantis               |
+| Yaki         | REJECT                  | Wolverine, Adam Warlock, Daredevil              |
+| Ace          | XOXO01                  | Invisible Woman, Rocket Raccoon, White Fox      |
+| AloNeFillz   | XOXO01                  | Psylocke, Elsa Bloodstone, Black Widow          |
+| JT3          | XOXO01                  | Emma Frost, Magneto, Groot                      |
+| MACE         | XOXO01                  | Luna Snow, Loki, Gambit                         |
+| Pasiw0       | XOXO01                  | The Hood, Magneto, Emma Frost                   |
+| Sung Juk Woo | XOXO01                  | Magik, Spider-Man, Wolverine                    |
+| Bubblecuh    | Chiefs Esports Club     | Luna Snow, Invisible Woman, Loki               |
+| Isaac        | Chiefs Esports Club     | Emma Frost, Magneto, Groot                     |
+| JONGVEQ      | Chiefs Esports Club     | Elsa Bloodstone, Winter Soldier, Hela          |
+| lil Rang     | Chiefs Esports Club     | Wolverine, Magneto, Adam Warlock               |
+| Rapxel       | Chiefs Esports Club     | Devil Dinosaur, Magneto, Groot                  |
+| Zykric       | Chiefs Esports Club     | Gambit, Invisible Woman, White Fox              |
+| Hoodie       | Zero Tenacity            | Gambit, Invisible Woman, Mantis                 |
+| Return       | Zero Tenacity            | Wolverine, Daredevil, Ultron                    |
+| soko         | Zero Tenacity            | Emma Frost, Magneto, Devil Dinosaur             |
+| Wendy        | Zero Tenacity            | Rocket Raccoon, Invisible Woman, Luna Snow       |
+| Xetha        | Zero Tenacity            | Devil Dinosaur, Magneto, Groot                  |
+| Xzi          | Zero Tenacity            | Hela, Psylocke, Elsa Bloodstone                 |
+| Creative     | AAAd                    | Invisible Woman, Gambit, Adam Warlock           |
+| INHYEOK      | AAAd                    | Devil Dinosaur, Magneto, Peni Parker             |
+| quasid       | AAAd                    | Rocket Raccoon, Luna Snow, Adam Warlock          |
+| reguri       | AAAd                    | Elsa Bloodstone, Hela, The Punisher              |
+| Ttuba        | AAAd                    | Magneto, Emma Frost, Devil Dinosaur              |
+| zeft         | AAAd                    | Wolverine, Psylocke, Daredevil                   |
+| Jmez         | Planet Sainage PAC      | Magneto, Hulk, Doctor Strange                    |
+| Sangshin     | Planet Sainage PAC      | Groot, Doctor Strange, Devil Dinosaur            |
+| VITAL        | Planet Sainage PAC      | Winter Soldier, Hela, Elsa Bloodstone            |
+| wnsgur3      | Planet Sainage PAC      | Invisible Woman, Gambit, Mantis                  |
+| Yugen        | Planet Sainage PAC      | Adam Warlock, Wolverine, Winter Soldier          |
+| Solmin       | Planet Sainage PAC      | Loki, Invisible Woman, Mantis                   |
+| nevoi        | Planet Sainage PAC      | Deadpool(Duelist), Rocket Raccoon, Spider-Man    |
+| acid         | The Shawrmaz             | Emma Frost, Magneto, Devil Dinosaur              |
+| Hybrid       | The Shawrmaz             | Invisible Woman, Luna Snow, Rocket Raccoon       |
+| Louy         | The Shawrmaz             | Winter Soldier, Wolverine, Storm                 |
+| Proxiezs     | The Shawrmaz             | Elsa Bloodstone, The Punisher, Mantis             |
+| rff_f        | The Shawrmaz             | Loki, Gambit, Rocket Raccoon                    |
+| Scrappy      | The Shawrmaz             | Thor, Angela, Magneto                            |
 
 ## Marvel Rivals Ignite 2026 Stage 1: China
 | Player       | Team               | Signature Heroes                                     |

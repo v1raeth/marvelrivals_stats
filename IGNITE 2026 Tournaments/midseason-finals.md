@@ -49,7 +49,7 @@
 | Squirrel Girl         |      0.1% |         0.0% |     0.0% |
 | Mister Fantastic      |      0.1% |         0.0% |     0.0% |
 
-Unpicked Heroes (9):
+Unpicked / Unbanned / Unprotected Heroes (9):
 * Black Panther, Cyclops, Deadpool(Duelist), Hawkeye, Iron Man, Magik, Phoenix, Scarlet Witch, Thor
 
 ### Maps

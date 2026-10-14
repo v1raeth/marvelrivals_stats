@@ -46,7 +46,7 @@
 | Iron Fist            |      1.3% |         0.0% |     0.0% |
 | Black Panther        |      0.4% |         0.0% |     0.0% |
 
-Unpicked Heroes (11):
+Unpicked / Unbanned / Unprotected Heroes (11):
 * Black Widow, Blade, Hawkeye, Hela, Human Torch, Iron Man, Mister Fantastic, Namor, Scarlet Witch, Squirrel Girl, Storm
 
 ### Maps

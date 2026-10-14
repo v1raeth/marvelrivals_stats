@@ -2,7 +2,7 @@
 * Here are all the players of the tournament and their 3 most popular heroes used in the tournament.
 
 ## Marvel Rivals Ignite 2026: Mid Season Finals
-| Player        |           Team | Signature Heroes                                |
+| Player        |           Team | Top 3                                |
 | :------------ | -------------: | :---------------------------------------------- |
 | fate          |  Natus Vincere | Gambit, Rocket Raccoon, Adam Warlock            |
 | Jur3ky        |  Natus Vincere | Storm, Wolverine, Winter Soldier                |

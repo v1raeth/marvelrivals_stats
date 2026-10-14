@@ -2,7 +2,7 @@
 * Here are all the players of the tournament and their 3 most popular heroes used in the tournament.
 
 ## Marvel Rivals Ignite 2026 Stage 2: Americas
-| Player        | Team                 | Signature Heroes                                |
+| Player        | Team                 | Top 3                                |
 | :------------ | :------------------- | :---------------------------------------------- |
 | Avery         | FlyQuest             | Gambit, Mantis, Invisible Woman                 |
 | Reedis        | FlyQuest             | Ultron, Hela, Wolverine                         |
@@ -83,7 +83,7 @@
 | mirror        | TSM                  | Rocket Raccoon, Luna Snow, Invisible Woman      |
 
 ## Marvel Rivals Ignite 2026 Stage 1: EMEA
-| Player        | Team                 | Signature Heroes                                |
+| Player        | Team                 | Top 3                                |
 | :------------ | :------------------- | :---------------------------------------------- |
 | Jur3ky        | Natus Vincere        | Wolverine, Magneto, Invisible Woman             |
 | Lv1Crook      | Natus Vincere        | Loki, Invisible Woman, Gambit                   |
@@ -155,7 +155,7 @@
 | Slopo         | FYR Strays           | Elsa Bloodstone, Winter Soldier, Psylocke       |
 
 ## Marvel Rivals Ignite 2026 Stage 1: Pacific
-| Player       | Team                    | Signature Heroes                                |
+| Player       | Team                    | Top 3                                |
 | :----------- | :---------------------- | :---------------------------------------------- |
 | Bobo         | Gen.G Esports           | Psylocke, Elsa Bloodstone, Winter Soldier       |
 | duep         | Gen.G Esports           | Magneto, Emma Frost, The Hood                   |
@@ -208,7 +208,7 @@
 | Scrappy      | The Shawrmaz             | Thor, Angela, Magneto                            |
 
 ## Marvel Rivals Ignite 2026 Stage 1: China
-| Player       | Team               | Signature Heroes                                     |
+| Player       | Team               | Top 3                                     |
 | :----------- | :----------------- | :--------------------------------------------------- |
 | Egg tart     | Aconyx             | Rocket Raccoon, Jeff the Land Shark, Ultron         |
 | Ghost        | Aconyx             | Gambit, Luna Snow, Invisible Woman                  |
@@ -267,7 +267,7 @@
 | Potato       | AimMiracle.X       | Angela, Emma Frost, Thor                             |
 
 ## Marvel Rivals Ignite 2026 Stage 1: Pacific Oceania
-| Player          | Team                  | Signature Heroes                                      |
+| Player          | Team                  | Top 3                                      |
 | :-------------- | :-------------------- | :---------------------------------------------------- |
 | Bobo            | Gen.G Esports         | Psylocke, Elsa Bloodstone, The Punisher               |
 | duep            | Gen.G Esports         | Emma Frost, The Hood, Deadpool (Vanguard)             |
@@ -320,7 +320,7 @@
 | bao bao         | Hekkers               | Rocket Raccoon, Doctor Strange, Jeff the Land Shark   |
 
 ## Marvel Rivals Ignite 2026 Stage 1: Pacific Asia
-| Player       | Team               | Signature Heroes                                |
+| Player       | Team               | Top 3                                |
 | ------------ | ------------------ | ----------------------------------------------- |
 | finale       | REJECT             | Elsa Bloodstone, Psylocke, Hela                 |
 | GARGOYLE     | REJECT             | Emma Frost, Magneto, Devil Dinosaur             |

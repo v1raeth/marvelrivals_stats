@@ -2,7 +2,7 @@
 * Here are all the players of the tournament and their 3 most popular heroes used in the tournament.
 
 ## Marvel Rivals Ignite 2026 Stage 1: Americas
-| Player         |                Team | Signature Heroes                                |
+| Player         |                Team | Top 3                                |
 | :------------- | ------------------: | :---------------------------------------------- |
 | cooper         |      Liquid Citadel | Luna Snow, Invisible Woman, Loki                |
 | energy         |      Liquid Citadel | Cyclops, Elsa Bloodstone, Phoenix               |
@@ -84,7 +84,7 @@
 | sjw            |                NTMR | Winter Soldier, Phoenix, Star-Lord              |
 
 ## Marvel Rivals Ignite 2026 Stage 1: EMEA
-| Player         |            Team | Signature Heroes                                    |
+| Player         |            Team | Top 3                                    |
 | :------------- | --------------: | :-------------------------------------------------- |
 | fate           |   Natus Vincere | Rocket Raccoon, White Fox, Jeff the Land Shark      |
 | Jur3ky         |   Natus Vincere | Daredevil, Psylocke, Mantis                         |
@@ -170,7 +170,7 @@
 | Tesco          |   Alter Esports | White Fox, Mantis, Invisible Woman                  |
 
 ## Marvel Rivals Ignite 2026 Stage 1: Pacific
-| Player       | Team                | Signature Heroes                                |
+| Player       | Team                | Top 3                                |
 | :----------- | ------------------: | :---------------------------------------------- |
 | Bobo         | Gen.G Esports       | Star-Lord, Cyclops, Adam Warlock                |
 | duep         | Gen.G Esports       | Emma Frost, Rogue, Captain America              |
@@ -223,7 +223,7 @@
 | woundz       | The Burgers         | Cyclops, Phoenix, Psylocke                      |
 
 ## Marvel Rivals Ignite 2026 Stage 1: China
-| Player      | Team            | Signature Heroes                                     |
+| Player      | Team            | Top 3                                     |
 | :---------- | --------------: | :--------------------------------------------------- |
 | ILLICIT     | OUG             | Daredevil, Black Cat, Phoenix                        |
 | SVALD       | OUG             | Luna Snow, Invisible Woman, Gambit                   |
@@ -280,7 +280,7 @@
 | Po          | Team Rise       | Venom, Groot, The Punisher                           |
 
 ## Marvel Rivals Ignite 2026 Stage 1: Pacific Oceania
-| Player         |                Team | Signature Heroes                                     |
+| Player         |                Team | Top 3                                     |
 | :------------- | ------------------: | :--------------------------------------------------- |
 | Bobo           |       Gen.G Esports | Phoenix, Psylocke, Star-Lord                         |
 | duep           |       Gen.G Esports | Captain America, Emma Frost, Groot                   |
@@ -332,7 +332,7 @@
 | Sabel          |             RE_VOLT | Phoenix                                              |
 
 ## Marvel Rivals Ignite 2026 Stage 1 - Pacific Asia
-| Player       | Team          | Signature Heroes                                     |
+| Player       | Team          | Top 3                                     |
 | :----------- | ------------: | :--------------------------------------------------- |
 | GARGOYLE     | REJECT        | Venom, Devil Dinosaur, Emma Frost                    |
 | Lastro       | REJECT        | Luna Snow, White Fox, Loki                           |

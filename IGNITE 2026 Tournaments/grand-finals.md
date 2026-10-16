@@ -8,6 +8,7 @@
 | EMEA                    | Natus Vincere (36) <br> Virtus.pro (29)            | 10*            | Stage 2 Champion**   |
 | Pacific                 | Gen.G Esports (35)                                 | -              | -                    |
 | China                   | Monarch (30)                                       | -***           | Stage 2 Champion***  |
+
 <b>* If two of Natus Vincere, Virtus.pro, RAD secured 2nd place, any team participates in the race for 4th slot.</b><br>
 <b>** RAD has secured slot by points, as NAVI or VP will take at least 2nd place. The criterion of guarantee depends on *</b><br>
 <b>*** If Monarch champions, Aconyx qualified by Points. If another one qualified as champions, Monarch qualified by Points.</b>

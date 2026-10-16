@@ -1,0 +1,38 @@
+## Marvel Rivals Ignite 2026: Grand Finals - Statistics<br><br>
+
+### Qualification
+
+| League                  | Leader(s)                                          | Min. to Chance | Guaranted to Qualify |
+| :---------------------- | :------------------------------------------------- | -------------- | -------------------- |
+| Americas                | Team Liquid Citadel (28) <br> Swamp Gaming (24)    | 7              | 12                   |
+| EMEA                    | Natus Vincere (36) <br> Virtus.pro (29)            | 10*            | Stage 2 Champion**   |
+| Pacific                 | Gen.G Esports (35)                                 | -              | -                    |
+| China                   | Monarch (30)                                       | -***           | Stage 2 Champion***  |
+<b>* If two of Natus Vincere, Virtus.pro, RAD secured 2nd place, any team participates in the race for 4th slot.</b><br>
+<b>** RAD has secured slot by points, as NAVI or VP will take at least 2nd place. The criterion of guarantee depends on *</b><br>
+<b>*** If Monarch champions, Aconyx qualified by Points. If another one qualified as champions, Monarch qualified by Points.</b>
+
+### Qualified
+
+| League                  | Qualified                | Qualifide by   |
+| :---------------------- | :----------------------- | -------------- |
+| Americas                | -                        | TBD            |
+| Americas                | -                        | TBD            |
+| Americas                | -                        | TBD            |
+| Americas                | -                        | TBD            |
+| EMEA                    | Natus Vincere            | 1st Points     |
+| EMEA                    | Virtus.pro               | 2nd Points     |
+| EMEA                    | RAD                      | 3rd Points     |
+| EMEA                    | -                        | TBD            |
+| Pacific                 | Gen.G Esports            | 1st Stage 2    |
+| Pacific                 | REJECT                   | 2nd Points     |
+| China                   | Monarch                  | TBD            |
+| China                   | -                        | TBD            |
+* [Points Standings on Liquipedia](https://liquipedia.net/marvelrivals/Ignite/2026/Points)
+
+### Heroes
+### Maps
+### Regions
+### Teams
+
+<br><u>Last tracked match: <b>-</b></u>

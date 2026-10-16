@@ -2,16 +2,16 @@
 
 ### Qualification
 
-| League                  | Leader(s)                                          | Min. to Chance | Guaranted to Qualify |
-| :---------------------- | :------------------------------------------------- | -------------- | -------------------- |
-| Americas                | Team Liquid Citadel (28) <br> Swamp Gaming (24)    | 7              | 31                   |
-| EMEA                    | Natus Vincere (36) <br> Virtus.pro (29)            | 10*            | Stage 2 Champion**   |
-| Pacific                 | Gen.G Esports (35)                                 | -              | -                    |
-| China                   | Monarch (30)                                       | -***           | Stage 2 Champion***  |
+| League                  | Leader(s)                                          | Min. to Chance | Guaranted to Qualify     |
+| :---------------------- | :------------------------------------------------- | -------------- | ------------------------ |
+| Americas                | Team Liquid Citadel (28) <br> Swamp Gaming (24)    | 7              | 31                       |
+| EMEA                    | Natus Vincere (36) <br> Virtus.pro (29)            | 10``*``        | Stage 2 Champion``**``   |
+| Pacific                 | Gen.G Esports (35)                                 | -              | -                        |
+| China                   | Monarch (30)                                       | -``***``       | Stage 2 Champion``***``  |
 
-<b>*</b> If two of <b>Natus Vincere, Virtus.pro, RAD</b> secured 2nd place, any team participates in the race for 4th slot.<br>
-<b>** RAD</b> has secured slot by points, as <b>NAVI</b> or <b>VP</b> will take at least 2nd place. The criterion of guarantee depends on *<br>
-<b>***</b> If <b>Monarch</b> champions, <b>Aconyx</b> qualified by Points. If another one qualified as champions, <b>Monarch</b> qualified by Points.
+``*`` If two of <b>Natus Vincere, Virtus.pro, RAD</b> secured 2nd place, any team participates in the race for 4th slot.<br>
+``**`` <b>RAD</b> has secured slot by points, as <b>NAVI</b> or <b>VP</b> will take at least 2nd place. The criterion of guarantee depends on *<br>
+``***`` If <b>Monarch</b> champions, <b>Aconyx</b> qualified by Points. If another one qualified as champions, <b>Monarch</b> qualified by Points.
 
 ### Qualified
 

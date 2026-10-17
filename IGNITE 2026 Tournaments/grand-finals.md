@@ -4,7 +4,7 @@
 
 | League                  | Leader(s)                                          | Min. to Chance | Guaranted to Qualify     |
 | :---------------------- | :------------------------------------------------- | -------------- | ------------------------ |
-| Americas                | Team Liquid Citadel (34) <br> Swamp Gaming (24)    | 13             | 24``****``               |
+| Americas                | Team Liquid Citadel (34) <br> Swamp Gaming (24)    | 20             | 24``****``               |
 | EMEA                    | Natus Vincere (36) <br> Virtus.pro (29)            | 10``*``        | -``**``                  |
 | Pacific                 | Gen.G Esports (35)                                 | -              | -                        |
 | China                   | Monarch (30)                                       | -``***``       | Stage 2 Champion``***``  |
